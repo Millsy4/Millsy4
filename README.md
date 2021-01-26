@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Mills</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🌱 I’m currently learning **react, javascript, and angular**
+- 🌱 I’m currently learning **react, javascript, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://millsy4.github.io/02_responsive_portfolio/](https://millsy4.github.io/02_responsive_portfolio/)
 
